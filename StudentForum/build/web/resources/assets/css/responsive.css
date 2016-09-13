@@ -1,0 +1,140 @@
+@media (max-width: 1200px) {
+	ul.mainNavigation li {margin-left:28px;}
+	#logo {position:relative;top:-15px;}
+	}
+	
+@media (max-width: 1170px) {
+	#logo .img-responsive {max-width:180px;}
+ul.mainNavigation li {
+	margin-left: 17px;
+}
+ 
+#logo{ float:none;}
+}
+ @media (max-width: 990px) {
+	 
+.bannerText p {
+	font-size: 23px;
+}
+.bannerText h2 {
+	font-size: 45px;
+}
+.bannerText {
+width:78%;
+}
+.bannerText {bottom:28px;} 
+
+.address .lftblock {margin-right:4%;width:67%;}
+}
+ @media (max-width: 950px) {
+.bannerText p {
+	font-size: 18px;
+}
+.bannerText h2 {
+	font-size: 38px;
+}
+.bannerText {
+width:73%;
+}
+}
+ @media (max-width: 767px) {
+ul.mainNavigation {
+	width: 100%;
+	margin-top: 20px;
+}
+#logo{float: left; margin-top:0;}
+ul.mainNavigation li {
+	margin: 0;
+}
+ .navbar-header {background-color:#243960;}
+ .navbar.marginBottom {margin-bottom:10px !important;}
+ 
+.navbar {
+	min-height: 28px;
+}
+.navbar-collapse {
+	padding-left: 0;
+}
+ul.mainNavigation li a {
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+.bannerText h2 {
+	font-size: 40px;
+	padding: 8px 28px 15px;
+}
+.bannerText p {
+	font-size: 18px;
+	padding: 15px 30px 10px;
+}
+.footer {
+	padding: 28px 0;
+}
+.partners {
+	padding-bottom: 25px;
+	margin-top: 30px;
+}
+.testimonial {
+	padding: 40px 0 24px;
+	margin-top: 0;
+}
+.about p {
+	text-align: center;
+}
+.media p {
+	text-align: left;
+}
+.about p {
+	text-align: left;
+}
+.footer h4 {
+	margin: 15px 0 0 0;
+} 
+.innerpagecontainer .dummytextdiv {
+	background:#243960;
+}
+
+.address{ width:100%; float:left;}
+.inputform{ width:100%; margin:0 0 20px 0;}
+.textareaB label{ width:24%;}
+.textareaB textarea{ width:75%;}
+.textareaB .submit{ margin:20px 0 0 24%;}
+.address {width:100%;} 
+.address .lftblock {width:100%;margin-right:0;}
+.address .rightblock {width:100%;margin-top:10px;}
+
+}
+ @media (max-width: 620px) {
+.bannerText h2 {
+	padding: 4%;
+	font-size: 28px;
+}
+.bannerText p {
+	padding: 4%;
+	font-size: 15px;
+}
+.bannerText {
+	width: 88%;
+} .borderThumb {width:100%;}
+.borderThumb img {width:100%;}
+.lftblock em{ width:100%; margin-bottom:20px;}
+
+}
+
+ @media (max-width: 480px) {
+	.inputform label, .inputform .input, .textareaB label{ width:100%; float:left;}
+	.textareaB textarea{ width:100%; margin-top:10px;}
+	.textareaB .submit{ margin:20px 0 0 0;}
+	.inputform select{ width:100%;}
+
+
+	 
+ }
+
+ @media (max-width: 380px) {
+	 .content {padding-top:30px;}
+	 .bannerText h2 {width:100%;}
+	 .bannerText{width:100%;position:relative;margin:10px 0;top:inherit;bottom:inherit;}
+	 .borderThumb {width:100%;}
+	 .borderThumb img {width:100%;}.testimonial p{ padding-left:0;}.testimonial p.colon{ margin-top:0; padding-top:0;}.testimonial p.colon{ background:transparent;}h2.heading{ font-size:33px;} 
+ }
